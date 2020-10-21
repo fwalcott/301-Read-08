@@ -92,4 +92,4 @@ d) Table <Table>
 7. a 
 8. d 
 9. c 
-10.a 
+10. a 
